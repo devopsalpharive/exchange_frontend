@@ -1,0 +1,14 @@
+<svg id="youtube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.164" y1="0.265" x2="0.993" y2="0.918" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff602e"/>
+      <stop offset="0.368" stop-color="#fe1c5e"/>
+      <stop offset="1" stop-color="#570ebe"/>
+    </linearGradient>
+  </defs>
+  <g id="_2443570c3018eacc9a2e73733e21dec3" data-name="2443570c3018eacc9a2e73733e21dec3" transform="translate(1.325 5.456)">
+    <path id="Path_50" data-name="Path 50" d="M25.989,4.8c-.736-1.31-1.535-1.551-3.162-1.642C21.2,3.046,17.115,3,13.575,3s-7.636.046-9.259.154c-1.623.093-2.424.333-3.167,1.644C.39,6.106,0,8.359,0,12.325v.014c0,3.949.39,6.219,1.148,7.513.743,1.31,1.542,1.547,3.166,1.657s5.714.151,9.261.151,7.627-.056,9.254-.149c1.627-.11,2.426-.348,3.162-1.657.765-1.294,1.152-3.564,1.152-7.513v-.014c0-3.968-.387-6.221-1.154-7.529Z" transform="translate(0 -3)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_51" data-name="Path 51" d="M6,15.679V5.5l8.482,5.089Z" transform="translate(4.179 -1.259)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+  <rect id="Rectangle_146" data-name="Rectangle 146" width="29" height="29" fill="none"/>
+</svg>
