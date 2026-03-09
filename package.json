@@ -84,7 +84,8 @@
     "build_testing": "GENERATE_SOURCEMAP=false REACT_APP_MODE=test react-scripts --max_old_space_size=4092 build",
     "build_uat": "GENERATE_SOURCEMAP=false REACT_APP_MODE=uat react-scripts --max_old_space_size=4092 build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postinstall": "node src/lib/cache-optimizer.js 2>/dev/null || true"
   },
   "browserslist": {
     "production": [
